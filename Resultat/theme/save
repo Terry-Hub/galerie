@@ -1,0 +1,16 @@
+/*
+require("imgClass.php");
+Img::creerMin("images/150img.jpg","images/min","lolilol");
+$dos = 'images'; 
+$dir = opendir($dos);
+while ($file = readdir($dir)){
+?>
+<div class="min">
+<a href="<?php echo $file; ?>">
+<img alt="" src="images/<?php echo $file; ?>"/>
+<h3><?php echo $file; ?></h3>
+</a>
+</div>
+<?php
+}
+*/
